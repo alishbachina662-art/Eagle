@@ -65,7 +65,7 @@
   }
  ],
  "adsCfg": {
-  "key": "https://asiafilm.org/4/bcd75ac95fc3f595718a94a1ab6d8740",
+  "key": "https://uplcm.com/4/12095861",
   "host": "www.highperformancedisplayformat.com",
   "w": 320,
   "h": 50,
@@ -99,31 +99,31 @@
  },
  "ads": {
   "sched1": {
-   "html": "<script>atOptions={'key':'httpsasiafilmorg4bcd75ac95fc3f595718a94a1ab6d8740','format':'iframe','height':50,'width':320,'params':{}};</script><script src=\"https://www.highperformancedisplayformat.com/httpsasiafilmorg4bcd75ac95fc3f595718a94a1ab6d8740/invoke.js\"></script>",
+   "html": "",
    "img": "",
    "url": "",
    "h": 60
   },
   "post": {
-   "html": "<script>atOptions={'key':'httpsasiafilmorg4bcd75ac95fc3f595718a94a1ab6d8740','format':'iframe','height':50,'width':320,'params':{}};</script><script src=\"https://www.highperformancedisplayformat.com/httpsasiafilmorg4bcd75ac95fc3f595718a94a1ab6d8740/invoke.js\"></script>",
+   "html": "",
    "img": "",
    "url": "",
    "h": 60
   },
   "sched2": {
-   "html": "<script>atOptions={'key':'httpsasiafilmorg4bcd75ac95fc3f595718a94a1ab6d8740','format':'iframe','height':50,'width':320,'params':{}};</script><script src=\"https://www.highperformancedisplayformat.com/httpsasiafilmorg4bcd75ac95fc3f595718a94a1ab6d8740/invoke.js\"></script>",
+   "html": "",
    "img": "",
    "url": "",
    "h": 60
   },
   "contact": {
-   "html": "<script>atOptions={'key':'httpsasiafilmorg4bcd75ac95fc3f595718a94a1ab6d8740','format':'iframe','height':50,'width':320,'params':{}};</script><script src=\"https://www.highperformancedisplayformat.com/httpsasiafilmorg4bcd75ac95fc3f595718a94a1ab6d8740/invoke.js\"></script>",
+   "html": "",
    "img": "",
    "url": "",
    "h": 60
   },
   "chat": {
-   "html": "<script>atOptions={'key':'httpsasiafilmorg4bcd75ac95fc3f595718a94a1ab6d8740','format':'iframe','height':50,'width':320,'params':{}};</script><script src=\"https://www.highperformancedisplayformat.com/httpsasiafilmorg4bcd75ac95fc3f595718a94a1ab6d8740/invoke.js\"></script>",
+   "html": "",
    "img": "",
    "url": "",
    "h": 50
